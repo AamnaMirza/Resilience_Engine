@@ -1,0 +1,2102 @@
+{
+    "AF": {
+        "police": [
+            "119"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "119"
+        ],
+        "calling_code": "93"
+    },
+    "AL": {
+        "police": [
+            "129"
+        ],
+        "ambulance": [
+            "127"
+        ],
+        "fire": [
+            "128"
+        ],
+        "calling_code": "355"
+    },
+    "DZ": {
+        "police": [
+            "17"
+        ],
+        "ambulance": [
+            "14"
+        ],
+        "fire": [
+            "14"
+        ],
+        "calling_code": "213"
+    },
+    "AS": {
+        "police": [
+            "911"
+        ],
+        "ambulance": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "calling_code": "1684"
+    },
+    "AD": {
+        "police": [
+            "110"
+        ],
+        "ambulance": [
+            "116"
+        ],
+        "fire": [
+            "118"
+        ],
+        "calling_code": "376"
+    },
+    "AO": {
+        "police": [
+            "113"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "115"
+        ],
+        "calling_code": "244"
+    },
+    "AR": {
+        "police": [
+            "101",
+            "911"
+        ],
+        "ambulance": [
+            "107",
+            "911"
+        ],
+        "fire": [
+            "100",
+            "911"
+        ],
+        "calling_code": "54"
+    },
+    "AM": {
+        "police": [
+            "102",
+            "911"
+        ],
+        "ambulance": [
+            "103",
+            "911"
+        ],
+        "fire": [
+            "101",
+            "911"
+        ],
+        "calling_code": "374"
+    },
+    "AU": {
+        "police": [
+            "000"
+        ],
+        "ambulance": [
+            "000"
+        ],
+        "fire": [
+            "000"
+        ],
+        "calling_code": "61"
+    },
+    "AT": {
+        "police": [
+            "133",
+            "112"
+        ],
+        "ambulance": [
+            "144",
+            "112"
+        ],
+        "fire": [
+            "122",
+            "112"
+        ],
+        "calling_code": "43"
+    },
+    "AZ": {
+        "police": [
+            "102"
+        ],
+        "ambulance": [
+            "103"
+        ],
+        "fire": [
+            "101"
+        ],
+        "calling_code": "994"
+    },
+    "BS": {
+        "police": [
+            "911",
+            "919"
+        ],
+        "ambulance": [
+            "911",
+            "919"
+        ],
+        "fire": [
+            "911",
+            "919"
+        ],
+        "calling_code": "1242"
+    },
+    "BH": {
+        "police": [
+            "999"
+        ],
+        "ambulance": [
+            "999"
+        ],
+        "fire": [
+            "999"
+        ],
+        "calling_code": "973"
+    },
+    "BD": {
+        "police": [
+            "999"
+        ],
+        "ambulance": [
+            "999"
+        ],
+        "fire": [
+            "999"
+        ],
+        "calling_code": "880"
+    },
+    "BB": {
+        "police": [
+            "211"
+        ],
+        "ambulance": [
+            "511"
+        ],
+        "fire": [
+            "311"
+        ],
+        "calling_code": "1246"
+    },
+    "BY": {
+        "police": [
+            "102"
+        ],
+        "ambulance": [
+            "103"
+        ],
+        "fire": [
+            "101"
+        ],
+        "calling_code": "375"
+    },
+    "BE": {
+        "police": [
+            "101",
+            "112"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "32"
+    },
+    "BZ": {
+        "police": [
+            "911"
+        ],
+        "ambulance": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "calling_code": "501"
+    },
+    "BJ": {
+        "police": [
+            "117"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "118"
+        ],
+        "calling_code": "229"
+    },
+    "BM": {
+        "police": [
+            "911"
+        ],
+        "ambulance": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "calling_code": "1441"
+    },
+    "BT": {
+        "police": [
+            "113"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "110"
+        ],
+        "calling_code": "975"
+    },
+    "BO": {
+        "police": [
+            "110",
+            "911"
+        ],
+        "ambulance": [
+            "118",
+            "911"
+        ],
+        "fire": [
+            "119",
+            "911"
+        ],
+        "calling_code": "591"
+    },
+    "BA": {
+        "police": [
+            "122"
+        ],
+        "ambulance": [
+            "124"
+        ],
+        "fire": [
+            "123"
+        ],
+        "calling_code": "387"
+    },
+    "BW": {
+        "police": [
+            "999"
+        ],
+        "ambulance": [
+            "997"
+        ],
+        "fire": [
+            "998"
+        ],
+        "calling_code": "267"
+    },
+    "BR": {
+        "police": [
+            "190"
+        ],
+        "ambulance": [
+            "192"
+        ],
+        "fire": [
+            "193"
+        ],
+        "calling_code": "55"
+    },
+    "BN": {
+        "police": [
+            "993"
+        ],
+        "ambulance": [
+            "991"
+        ],
+        "fire": [
+            "995"
+        ],
+        "calling_code": "673"
+    },
+    "BG": {
+        "police": [
+            "166",
+            "112"
+        ],
+        "ambulance": [
+            "150",
+            "112"
+        ],
+        "fire": [
+            "160",
+            "112"
+        ],
+        "calling_code": "359"
+    },
+    "BF": {
+        "police": [
+            "17"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "18"
+        ],
+        "calling_code": "226"
+    },
+    "BI": {
+        "police": [
+            "117"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "118"
+        ],
+        "calling_code": "257"
+    },
+    "KH": {
+        "police": [
+            "117"
+        ],
+        "ambulance": [
+            "119"
+        ],
+        "fire": [
+            "118"
+        ],
+        "calling_code": "855"
+    },
+    "CM": {
+        "police": [
+            "117"
+        ],
+        "ambulance": [
+            "119"
+        ],
+        "fire": [
+            "118"
+        ],
+        "calling_code": "237"
+    },
+    "CA": {
+        "police": [
+            "911"
+        ],
+        "ambulance": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "calling_code": "1"
+    },
+    "CV": {
+        "police": [
+            "132"
+        ],
+        "ambulance": [
+            "130"
+        ],
+        "fire": [
+            "131"
+        ],
+        "calling_code": "238"
+    },
+    "CF": {
+        "police": [
+            "117"
+        ],
+        "ambulance": [
+            "1220"
+        ],
+        "fire": [
+            "118"
+        ],
+        "calling_code": "236"
+    },
+    "TD": {
+        "police": [
+            "17"
+        ],
+        "ambulance": [
+            "18"
+        ],
+        "fire": [
+            "18"
+        ],
+        "calling_code": "235"
+    },
+    "CL": {
+        "police": [
+            "133"
+        ],
+        "ambulance": [
+            "131"
+        ],
+        "fire": [
+            "132"
+        ],
+        "calling_code": "56"
+    },
+    "CN": {
+        "police": [
+            "110"
+        ],
+        "ambulance": [
+            "120"
+        ],
+        "fire": [
+            "119"
+        ],
+        "calling_code": "86"
+    },
+    "CO": {
+        "police": [
+            "112",
+            "123"
+        ],
+        "ambulance": [
+            "125",
+            "123"
+        ],
+        "fire": [
+            "119",
+            "123"
+        ],
+        "calling_code": "57"
+    },
+    "CR": {
+        "police": [
+            "911"
+        ],
+        "ambulance": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "calling_code": "506"
+    },
+    "HR": {
+        "police": [
+            "192",
+            "112"
+        ],
+        "ambulance": [
+            "194",
+            "112"
+        ],
+        "fire": [
+            "193",
+            "112"
+        ],
+        "calling_code": "385"
+    },
+    "CU": {
+        "police": [
+            "106"
+        ],
+        "ambulance": [
+            "104"
+        ],
+        "fire": [
+            "105"
+        ],
+        "calling_code": "53"
+    },
+    "CY": {
+        "police": [
+            "112",
+            "199"
+        ],
+        "ambulance": [
+            "112",
+            "199"
+        ],
+        "fire": [
+            "112",
+            "199"
+        ],
+        "calling_code": "357"
+    },
+    "CZ": {
+        "police": [
+            "158",
+            "112"
+        ],
+        "ambulance": [
+            "155",
+            "112"
+        ],
+        "fire": [
+            "150",
+            "112"
+        ],
+        "calling_code": "420"
+    },
+    "CD": {
+        "police": [
+            "112"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "118"
+        ],
+        "calling_code": "243"
+    },
+    "DK": {
+        "police": [
+            "112"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "45"
+    },
+    "DJ": {
+        "police": [
+            "17"
+        ],
+        "ambulance": [
+            "19"
+        ],
+        "fire": [
+            "18"
+        ],
+        "calling_code": "253"
+    },
+    "DO": {
+        "police": [
+            "911"
+        ],
+        "ambulance": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "calling_code": "1"
+    },
+    "EC": {
+        "police": [
+            "101",
+            "911"
+        ],
+        "ambulance": [
+            "131",
+            "911"
+        ],
+        "fire": [
+            "102",
+            "911"
+        ],
+        "calling_code": "593"
+    },
+    "EG": {
+        "police": [
+            "122",
+            "112"
+        ],
+        "ambulance": [
+            "123"
+        ],
+        "fire": [
+            "180"
+        ],
+        "calling_code": "20"
+    },
+    "SV": {
+        "police": [
+            "911"
+        ],
+        "ambulance": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "calling_code": "503"
+    },
+    "EE": {
+        "police": [
+            "112"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "372"
+    },
+    "ET": {
+        "police": [
+            "991",
+            "911"
+        ],
+        "ambulance": [
+            "907",
+            "911"
+        ],
+        "fire": [
+            "939",
+            "911"
+        ],
+        "calling_code": "251"
+    },
+    "FI": {
+        "police": [
+            "112"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "358"
+    },
+    "FR": {
+        "police": [
+            "17",
+            "112"
+        ],
+        "ambulance": [
+            "15",
+            "112"
+        ],
+        "fire": [
+            "18",
+            "112"
+        ],
+        "calling_code": "33"
+    },
+    "GA": {
+        "police": [
+            "1730"
+        ],
+        "ambulance": [
+            "1300"
+        ],
+        "fire": [
+            "18"
+        ],
+        "calling_code": "241"
+    },
+    "GM": {
+        "police": [
+            "117"
+        ],
+        "ambulance": [
+            "116"
+        ],
+        "fire": [
+            "118"
+        ],
+        "calling_code": "220"
+    },
+    "GE": {
+        "police": [
+            "112"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "995"
+    },
+    "DE": {
+        "police": [
+            "110",
+            "112"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "49"
+    },
+    "GH": {
+        "police": [
+            "191",
+            "112"
+        ],
+        "ambulance": [
+            "193",
+            "112"
+        ],
+        "fire": [
+            "192",
+            "112"
+        ],
+        "calling_code": "233"
+    },
+    "GR": {
+        "police": [
+            "100",
+            "112"
+        ],
+        "ambulance": [
+            "166",
+            "112"
+        ],
+        "fire": [
+            "199",
+            "112"
+        ],
+        "calling_code": "30"
+    },
+    "GT": {
+        "police": [
+            "110"
+        ],
+        "ambulance": [
+            "122",
+            "123"
+        ],
+        "fire": [
+            "122",
+            "123"
+        ],
+        "calling_code": "502"
+    },
+    "GN": {
+        "police": [
+            "117"
+        ],
+        "ambulance": [
+            "18"
+        ],
+        "fire": [
+            "18"
+        ],
+        "calling_code": "224"
+    },
+    "GY": {
+        "police": [
+            "911"
+        ],
+        "ambulance": [
+            "913"
+        ],
+        "fire": [
+            "912"
+        ],
+        "calling_code": "592"
+    },
+    "HT": {
+        "police": [
+            "114"
+        ],
+        "ambulance": [
+            "116"
+        ],
+        "fire": [
+            "115"
+        ],
+        "calling_code": "509"
+    },
+    "HN": {
+        "police": [
+            "911",
+            "199"
+        ],
+        "ambulance": [
+            "911",
+            "199"
+        ],
+        "fire": [
+            "911",
+            "199"
+        ],
+        "calling_code": "504"
+    },
+    "HK": {
+        "police": [
+            "999"
+        ],
+        "ambulance": [
+            "999"
+        ],
+        "fire": [
+            "999"
+        ],
+        "calling_code": "852"
+    },
+    "HU": {
+        "police": [
+            "107",
+            "112"
+        ],
+        "ambulance": [
+            "104",
+            "112"
+        ],
+        "fire": [
+            "105",
+            "112"
+        ],
+        "calling_code": "36"
+    },
+    "IS": {
+        "police": [
+            "112"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "354"
+    },
+    "IN": {
+        "police": [
+            "100",
+            "112"
+        ],
+        "ambulance": [
+            "108",
+            "102",
+            "112"
+        ],
+        "fire": [
+            "101",
+            "112"
+        ],
+        "calling_code": "91"
+    },
+    "ID": {
+        "police": [
+            "110",
+            "112"
+        ],
+        "ambulance": [
+            "118",
+            "119",
+            "112"
+        ],
+        "fire": [
+            "113",
+            "112"
+        ],
+        "calling_code": "62"
+    },
+    "IR": {
+        "police": [
+            "110"
+        ],
+        "ambulance": [
+            "115"
+        ],
+        "fire": [
+            "125"
+        ],
+        "calling_code": "98"
+    },
+    "IQ": {
+        "police": [
+            "104",
+            "112"
+        ],
+        "ambulance": [
+            "122",
+            "112"
+        ],
+        "fire": [
+            "115",
+            "112"
+        ],
+        "calling_code": "964"
+    },
+    "IE": {
+        "police": [
+            "999",
+            "112"
+        ],
+        "ambulance": [
+            "999",
+            "112"
+        ],
+        "fire": [
+            "999",
+            "112"
+        ],
+        "calling_code": "353"
+    },
+    "IL": {
+        "police": [
+            "100"
+        ],
+        "ambulance": [
+            "101"
+        ],
+        "fire": [
+            "102"
+        ],
+        "calling_code": "972"
+    },
+    "IT": {
+        "police": [
+            "113",
+            "112"
+        ],
+        "ambulance": [
+            "118",
+            "112"
+        ],
+        "fire": [
+            "115",
+            "112"
+        ],
+        "calling_code": "39"
+    },
+    "JM": {
+        "police": [
+            "119"
+        ],
+        "ambulance": [
+            "110"
+        ],
+        "fire": [
+            "110"
+        ],
+        "calling_code": "1"
+    },
+    "JP": {
+        "police": [
+            "110"
+        ],
+        "ambulance": [
+            "119"
+        ],
+        "fire": [
+            "119"
+        ],
+        "calling_code": "81"
+    },
+    "JO": {
+        "police": [
+            "191",
+            "911"
+        ],
+        "ambulance": [
+            "191",
+            "911"
+        ],
+        "fire": [
+            "191",
+            "911"
+        ],
+        "calling_code": "962"
+    },
+    "KZ": {
+        "police": [
+            "102"
+        ],
+        "ambulance": [
+            "103"
+        ],
+        "fire": [
+            "101"
+        ],
+        "calling_code": "7"
+    },
+    "KE": {
+        "police": [
+            "999",
+            "112",
+            "911"
+        ],
+        "ambulance": [
+            "999",
+            "112",
+            "911"
+        ],
+        "fire": [
+            "999",
+            "112",
+            "911"
+        ],
+        "calling_code": "254"
+    },
+    "KW": {
+        "police": [
+            "112"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "965"
+    },
+    "KG": {
+        "police": [
+            "102"
+        ],
+        "ambulance": [
+            "103"
+        ],
+        "fire": [
+            "101"
+        ],
+        "calling_code": "996"
+    },
+    "LA": {
+        "police": [
+            "191"
+        ],
+        "ambulance": [
+            "195"
+        ],
+        "fire": [
+            "190"
+        ],
+        "calling_code": "856"
+    },
+    "LV": {
+        "police": [
+            "110",
+            "112"
+        ],
+        "ambulance": [
+            "113",
+            "112"
+        ],
+        "fire": [
+            "114",
+            "112"
+        ],
+        "calling_code": "371"
+    },
+    "LB": {
+        "police": [
+            "112",
+            "999"
+        ],
+        "ambulance": [
+            "140"
+        ],
+        "fire": [
+            "175"
+        ],
+        "calling_code": "961"
+    },
+    "LS": {
+        "police": [
+            "123"
+        ],
+        "ambulance": [
+            "121"
+        ],
+        "fire": [
+            "122"
+        ],
+        "calling_code": "266"
+    },
+    "LR": {
+        "police": [
+            "911"
+        ],
+        "ambulance": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "calling_code": "231"
+    },
+    "LY": {
+        "police": [
+            "1515"
+        ],
+        "ambulance": [
+            "193"
+        ],
+        "fire": [
+            "193"
+        ],
+        "calling_code": "218"
+    },
+    "LI": {
+        "police": [
+            "117",
+            "112"
+        ],
+        "ambulance": [
+            "144",
+            "112"
+        ],
+        "fire": [
+            "118",
+            "112"
+        ],
+        "calling_code": "423"
+    },
+    "LT": {
+        "police": [
+            "112"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "370"
+    },
+    "LU": {
+        "police": [
+            "113",
+            "112"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "352"
+    },
+    "MO": {
+        "police": [
+            "999"
+        ],
+        "ambulance": [
+            "999"
+        ],
+        "fire": [
+            "999"
+        ],
+        "calling_code": "853"
+    },
+    "MK": {
+        "police": [
+            "192",
+            "112"
+        ],
+        "ambulance": [
+            "194",
+            "112"
+        ],
+        "fire": [
+            "193",
+            "112"
+        ],
+        "calling_code": "389"
+    },
+    "MG": {
+        "police": [
+            "117"
+        ],
+        "ambulance": [
+            "124"
+        ],
+        "fire": [
+            "118"
+        ],
+        "calling_code": "261"
+    },
+    "MW": {
+        "police": [
+            "997"
+        ],
+        "ambulance": [
+            "998"
+        ],
+        "fire": [
+            "999"
+        ],
+        "calling_code": "265"
+    },
+    "MY": {
+        "police": [
+            "999",
+            "112"
+        ],
+        "ambulance": [
+            "999",
+            "112"
+        ],
+        "fire": [
+            "999",
+            "112"
+        ],
+        "calling_code": "60"
+    },
+    "MV": {
+        "police": [
+            "119",
+            "911"
+        ],
+        "ambulance": [
+            "100"
+        ],
+        "fire": [
+            "118"
+        ],
+        "calling_code": "960"
+    },
+    "ML": {
+        "police": [
+            "17"
+        ],
+        "ambulance": [
+            "15"
+        ],
+        "fire": [
+            "18"
+        ],
+        "calling_code": "223"
+    },
+    "MT": {
+        "police": [
+            "112"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "356"
+    },
+    "MR": {
+        "police": [
+            "117"
+        ],
+        "ambulance": [
+            "101"
+        ],
+        "fire": [
+            "118"
+        ],
+        "calling_code": "222"
+    },
+    "MU": {
+        "police": [
+            "999",
+            "112"
+        ],
+        "ambulance": [
+            "114"
+        ],
+        "fire": [
+            "995",
+            "115"
+        ],
+        "calling_code": "230"
+    },
+    "MX": {
+        "police": [
+            "911"
+        ],
+        "ambulance": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "calling_code": "52"
+    },
+    "MD": {
+        "police": [
+            "112"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "373"
+    },
+    "MC": {
+        "police": [
+            "17"
+        ],
+        "ambulance": [
+            "18",
+            "112"
+        ],
+        "fire": [
+            "18",
+            "112"
+        ],
+        "calling_code": "377"
+    },
+    "MN": {
+        "police": [
+            "102"
+        ],
+        "ambulance": [
+            "103"
+        ],
+        "fire": [
+            "101"
+        ],
+        "calling_code": "976"
+    },
+    "ME": {
+        "police": [
+            "122",
+            "112"
+        ],
+        "ambulance": [
+            "124",
+            "112"
+        ],
+        "fire": [
+            "123",
+            "112"
+        ],
+        "calling_code": "382"
+    },
+    "MA": {
+        "police": [
+            "19"
+        ],
+        "ambulance": [
+            "15"
+        ],
+        "fire": [
+            "15"
+        ],
+        "calling_code": "212"
+    },
+    "MZ": {
+        "police": [
+            "119"
+        ],
+        "ambulance": [
+            "117"
+        ],
+        "fire": [
+            "198"
+        ],
+        "calling_code": "258"
+    },
+    "MM": {
+        "police": [
+            "199",
+            "999"
+        ],
+        "ambulance": [
+            "192"
+        ],
+        "fire": [
+            "191"
+        ],
+        "calling_code": "95"
+    },
+    "NA": {
+        "police": [
+            "10111"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "264"
+    },
+    "NP": {
+        "police": [
+            "100"
+        ],
+        "ambulance": [
+            "102"
+        ],
+        "fire": [
+            "101"
+        ],
+        "calling_code": "977"
+    },
+    "NL": {
+        "police": [
+            "112"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "31"
+    },
+    "NZ": {
+        "police": [
+            "111"
+        ],
+        "ambulance": [
+            "111"
+        ],
+        "fire": [
+            "111"
+        ],
+        "calling_code": "64"
+    },
+    "NI": {
+        "police": [
+            "118"
+        ],
+        "ambulance": [
+            "128"
+        ],
+        "fire": [
+            "115"
+        ],
+        "calling_code": "505"
+    },
+    "NE": {
+        "police": [
+            "17"
+        ],
+        "ambulance": [
+            "15"
+        ],
+        "fire": [
+            "18"
+        ],
+        "calling_code": "227"
+    },
+    "NG": {
+        "police": [
+            "112",
+            "199"
+        ],
+        "ambulance": [
+            "112",
+            "199"
+        ],
+        "fire": [
+            "112",
+            "199"
+        ],
+        "calling_code": "234"
+    },
+    "NO": {
+        "police": [
+            "112"
+        ],
+        "ambulance": [
+            "113"
+        ],
+        "fire": [
+            "110"
+        ],
+        "calling_code": "47"
+    },
+    "OM": {
+        "police": [
+            "9999"
+        ],
+        "ambulance": [
+            "9999"
+        ],
+        "fire": [
+            "9999"
+        ],
+        "calling_code": "968"
+    },
+    "PK": {
+        "police": [
+            "15"
+        ],
+        "ambulance": [
+            "115",
+            "1122"
+        ],
+        "fire": [
+            "16",
+            "1122"
+        ],
+        "calling_code": "92"
+    },
+    "PS": {
+        "police": [
+            "100"
+        ],
+        "ambulance": [
+            "101"
+        ],
+        "fire": [
+            "102"
+        ],
+        "calling_code": "970"
+    },
+    "PA": {
+        "police": [
+            "104",
+            "911"
+        ],
+        "ambulance": [
+            "911"
+        ],
+        "fire": [
+            "103",
+            "911"
+        ],
+        "calling_code": "507"
+    },
+    "PG": {
+        "police": [
+            "112",
+            "000"
+        ],
+        "ambulance": [
+            "111"
+        ],
+        "fire": [
+            "110"
+        ],
+        "calling_code": "675"
+    },
+    "PY": {
+        "police": [
+            "911"
+        ],
+        "ambulance": [
+            "141"
+        ],
+        "fire": [
+            "132"
+        ],
+        "calling_code": "595"
+    },
+    "PE": {
+        "police": [
+            "105",
+            "911"
+        ],
+        "ambulance": [
+            "106",
+            "911"
+        ],
+        "fire": [
+            "116",
+            "911"
+        ],
+        "calling_code": "51"
+    },
+    "PH": {
+        "police": [
+            "911"
+        ],
+        "ambulance": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "calling_code": "63"
+    },
+    "PL": {
+        "police": [
+            "997",
+            "112"
+        ],
+        "ambulance": [
+            "999",
+            "112"
+        ],
+        "fire": [
+            "998",
+            "112"
+        ],
+        "calling_code": "48"
+    },
+    "PT": {
+        "police": [
+            "112"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "351"
+    },
+    "QA": {
+        "police": [
+            "999"
+        ],
+        "ambulance": [
+            "999"
+        ],
+        "fire": [
+            "999"
+        ],
+        "calling_code": "974"
+    },
+    "RO": {
+        "police": [
+            "112"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "40"
+    },
+    "RU": {
+        "police": [
+            "102",
+            "112"
+        ],
+        "ambulance": [
+            "103",
+            "112"
+        ],
+        "fire": [
+            "101",
+            "112"
+        ],
+        "calling_code": "7"
+    },
+    "RW": {
+        "police": [
+            "112"
+        ],
+        "ambulance": [
+            "912"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "250"
+    },
+    "SA": {
+        "police": [
+            "999",
+            "911"
+        ],
+        "ambulance": [
+            "997",
+            "911"
+        ],
+        "fire": [
+            "998",
+            "911"
+        ],
+        "calling_code": "966"
+    },
+    "SN": {
+        "police": [
+            "17"
+        ],
+        "ambulance": [
+            "1515"
+        ],
+        "fire": [
+            "18"
+        ],
+        "calling_code": "221"
+    },
+    "RS": {
+        "police": [
+            "192",
+            "112"
+        ],
+        "ambulance": [
+            "194"
+        ],
+        "fire": [
+            "193"
+        ],
+        "calling_code": "381"
+    },
+    "SG": {
+        "police": [
+            "999"
+        ],
+        "ambulance": [
+            "995"
+        ],
+        "fire": [
+            "995"
+        ],
+        "calling_code": "65"
+    },
+    "SK": {
+        "police": [
+            "158",
+            "112"
+        ],
+        "ambulance": [
+            "155",
+            "112"
+        ],
+        "fire": [
+            "150",
+            "112"
+        ],
+        "calling_code": "421"
+    },
+    "SI": {
+        "police": [
+            "113",
+            "112"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "386"
+    },
+    "ZA": {
+        "police": [
+            "10111",
+            "112"
+        ],
+        "ambulance": [
+            "10177"
+        ],
+        "fire": [
+            "10177"
+        ],
+        "calling_code": "27"
+    },
+    "ES": {
+        "police": [
+            "091",
+            "112"
+        ],
+        "ambulance": [
+            "061",
+            "112"
+        ],
+        "fire": [
+            "080",
+            "112"
+        ],
+        "calling_code": "34"
+    },
+    "LK": {
+        "police": [
+            "119"
+        ],
+        "ambulance": [
+            "110"
+        ],
+        "fire": [
+            "110"
+        ],
+        "calling_code": "94"
+    },
+    "SD": {
+        "police": [
+            "999"
+        ],
+        "ambulance": [
+            "999"
+        ],
+        "fire": [
+            "999"
+        ],
+        "calling_code": "249"
+    },
+    "SE": {
+        "police": [
+            "112"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "46"
+    },
+    "CH": {
+        "police": [
+            "117",
+            "112"
+        ],
+        "ambulance": [
+            "144",
+            "112"
+        ],
+        "fire": [
+            "118",
+            "112"
+        ],
+        "calling_code": "41"
+    },
+    "SY": {
+        "police": [
+            "112"
+        ],
+        "ambulance": [
+            "110"
+        ],
+        "fire": [
+            "113"
+        ],
+        "calling_code": "963"
+    },
+    "TW": {
+        "police": [
+            "110",
+            "112"
+        ],
+        "ambulance": [
+            "119",
+            "112"
+        ],
+        "fire": [
+            "119",
+            "112"
+        ],
+        "calling_code": "886"
+    },
+    "TZ": {
+        "police": [
+            "112",
+            "999"
+        ],
+        "ambulance": [
+            "114"
+        ],
+        "fire": [
+            "115"
+        ],
+        "calling_code": "255"
+    },
+    "TH": {
+        "police": [
+            "191"
+        ],
+        "ambulance": [
+            "1669"
+        ],
+        "fire": [
+            "199"
+        ],
+        "calling_code": "66"
+    },
+    "TG": {
+        "police": [
+            "117"
+        ],
+        "ambulance": [
+            "8200"
+        ],
+        "fire": [
+            "118"
+        ],
+        "calling_code": "228"
+    },
+    "TN": {
+        "police": [
+            "197"
+        ],
+        "ambulance": [
+            "190"
+        ],
+        "fire": [
+            "198"
+        ],
+        "calling_code": "216"
+    },
+    "TR": {
+        "police": [
+            "112"
+        ],
+        "ambulance": [
+            "112"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "90"
+    },
+    "UG": {
+        "police": [
+            "999",
+            "112"
+        ],
+        "ambulance": [
+            "911"
+        ],
+        "fire": [
+            "112"
+        ],
+        "calling_code": "256"
+    },
+    "UA": {
+        "police": [
+            "102",
+            "112"
+        ],
+        "ambulance": [
+            "103",
+            "112"
+        ],
+        "fire": [
+            "101",
+            "112"
+        ],
+        "calling_code": "380"
+    },
+    "AE": {
+        "police": [
+            "999",
+            "112"
+        ],
+        "ambulance": [
+            "998",
+            "911"
+        ],
+        "fire": [
+            "997"
+        ],
+        "calling_code": "971"
+    },
+    "GB": {
+        "police": [
+            "999",
+            "112"
+        ],
+        "ambulance": [
+            "999",
+            "112"
+        ],
+        "fire": [
+            "999",
+            "112"
+        ],
+        "calling_code": "44"
+    },
+    "US": {
+        "police": [
+            "911"
+        ],
+        "ambulance": [
+            "911"
+        ],
+        "fire": [
+            "911"
+        ],
+        "calling_code": "1"
+    },
+    "UY": {
+        "police": [
+            "911",
+            "109"
+        ],
+        "ambulance": [
+            "105"
+        ],
+        "fire": [
+            "104"
+        ],
+        "calling_code": "598"
+    },
+    "UZ": {
+        "police": [
+            "102"
+        ],
+        "ambulance": [
+            "103"
+        ],
+        "fire": [
+            "101"
+        ],
+        "calling_code": "998"
+    },
+    "VE": {
+        "police": [
+            "911",
+            "171"
+        ],
+        "ambulance": [
+            "911",
+            "171"
+        ],
+        "fire": [
+            "911",
+            "171"
+        ],
+        "calling_code": "58"
+    },
+    "VN": {
+        "police": [
+            "113"
+        ],
+        "ambulance": [
+            "115"
+        ],
+        "fire": [
+            "114"
+        ],
+        "calling_code": "84"
+    },
+    "YE": {
+        "police": [
+            "194"
+        ],
+        "ambulance": [
+            "191"
+        ],
+        "fire": [
+            "191"
+        ],
+        "calling_code": "967"
+    },
+    "ZM": {
+        "police": [
+            "999",
+            "911"
+        ],
+        "ambulance": [
+            "992"
+        ],
+        "fire": [
+            "993"
+        ],
+        "calling_code": "260"
+    },
+    "ZW": {
+        "police": [
+            "999",
+            "995"
+        ],
+        "ambulance": [
+            "994"
+        ],
+        "fire": [
+            "993"
+        ],
+        "calling_code": "263"
+    }
+}

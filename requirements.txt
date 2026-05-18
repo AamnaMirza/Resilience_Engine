@@ -1,0 +1,33 @@
+# ── PDF Extraction ────────────────────────────
+pymupdf4llm
+pdfplumber
+
+# ── Chunking ──────────────────────────────────
+langchain
+langchain-community
+langchain-text-splitters
+
+# ── Embeddings ────────────────────────────────
+sentence-transformers
+
+# ── Vector Database ───────────────────────────
+chromadb
+
+# ── Hybrid Search (BM25) ──────────────────────
+rank-bm25
+
+# ── LLM (Gemma via Ollama) ────────────────────
+ollama
+
+# ── Backend API ───────────────────────────────
+fastapi
+uvicorn
+
+# ── WhatsApp / Twilio ─────────────────────────
+twilio
+
+# ── Utilities ─────────────────────────────────
+python-dotenv
+requests
+gTTS
+langdetect
